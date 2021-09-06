@@ -1,2 +1,3 @@
 # hello--world
-My first Github repository
+This is Sekhar
+My adventure in GITHUB starts today i.e 06 Novenber 2021
